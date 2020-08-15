@@ -3,7 +3,7 @@ DeepFaceLab Workspace
 
 
 ## Pipline:
-1. prepare the environment and download DeepFaceLab  
+1. prepare the environment and download DeepFaceLab[https://github.com/iperov/DeepFaceLab.git]  
 2. prepare the source video files  
     * create *workspace/data_dst*, *workspace/data_src*, *workspace/model* folder  
     * place your own data_dst.mp4  data_src.mp4 to *workspace*  
