@@ -1,0 +1,18 @@
+============= Model Summary =============
+==                                     ==
+==        Model name: XSeg             ==
+==                                     ==
+== Current iteration: 16040            ==
+==                                     ==
+==----------- Model Options -----------==
+==                                     ==
+==         face_type: wf               ==
+==        batch_size: 4                ==
+==                                     ==
+==------------ Running On -------------==
+==                                     ==
+==      Device index: 0                ==
+==              Name: GeForce GTX 1060 ==
+==              VRAM: 5.94GB           ==
+==                                     ==
+=========================================
